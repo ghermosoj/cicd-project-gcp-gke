@@ -1,0 +1,22 @@
+# Node
+node_modules
+npm-debug.log
+yarn.lock
+
+# Logs
+logs
+*.logs
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+override.tf
+override.tf.json
+*.tfvars
+*.tfvars.json
+
+# OS
+.DS_Store
+Thumbs.db
